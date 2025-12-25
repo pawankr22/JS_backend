@@ -7,8 +7,8 @@
   ],
   "license": "ISC",
   "author": "Pawan Kumar",
-  "type": "commonjs",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
